@@ -9,6 +9,8 @@ Book Tracker uses the Firebase Cloud Firestore database to make updates in real 
 
 The app implements Google Maps API to set a location to receive a book. Google Books API allowing users to scan books that are in the Google Books database and add them to their virtual book collection.
 
+Demo video can be found here: [Link](https://youtu.be/3QTKJmWGeJM)
+
 Check out the [wiki](https://github.com/CMPUT301F20T11/Cloud8/wiki) for a more in depth look into our application.
 
 <p align="center">
